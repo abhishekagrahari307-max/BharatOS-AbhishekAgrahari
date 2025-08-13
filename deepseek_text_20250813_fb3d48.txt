@@ -1,0 +1,15 @@
+BharatOS-AbhishekAgrahari/
+├── .github/
+│   └── workflows/       # CI/CD for ISO builds
+├── core/
+│   ├── hindi-nlp/       # Vosk/Indic NLP integration
+│   ├── yoga-auth/      # MediaPipe pose detection
+│   └── security/       # TPM/SecureBoot scripts
+├── themes/
+│   ├── diwali/         # Festival themes (GNOME/KDE)
+│   └── holi/
+├── docs/               # Hindi/English documentation
+├── scripts/
+│   ├── build-iso.sh    # Automated ISO creation
+│   └── deploy.sh       # Cloud deployment
+└── LICENSE             # GPLv3
